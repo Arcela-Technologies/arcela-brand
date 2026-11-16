@@ -1,0 +1,83 @@
+{
+  "Ink": {
+    "hex": "#14181F",
+    "rgb": [
+      20,
+      24,
+      31
+    ],
+    "use": "Text, the dark band of the mark"
+  },
+  "Green": {
+    "hex": "#0D6E5A",
+    "rgb": [
+      13,
+      110,
+      90
+    ],
+    "use": "Buttons, links, the middle band"
+  },
+  "Mint": {
+    "hex": "#7FD1B5",
+    "rgb": [
+      127,
+      209,
+      181
+    ],
+    "use": "The outer band, highlights"
+  },
+  "Paper": {
+    "hex": "#F6F6F3",
+    "rgb": [
+      246,
+      246,
+      243
+    ],
+    "use": "Page backgrounds"
+  },
+  "Slate": {
+    "hex": "#4F5663",
+    "rgb": [
+      79,
+      86,
+      99
+    ],
+    "use": "Secondary text"
+  },
+  "Ink 2": {
+    "hex": "#3B4150",
+    "rgb": [
+      59,
+      65,
+      80
+    ],
+    "use": "Muted headings"
+  },
+  "Green hover": {
+    "hex": "#0A5545",
+    "rgb": [
+      10,
+      85,
+      69
+    ],
+    "use": "Hover and pressed states"
+  },
+  "Line": {
+    "hex": "#D9D9D3",
+    "rgb": [
+      217,
+      217,
+      211
+    ],
+    "use": "Rules and borders"
+  },
+  "White": {
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "use": "Cards and surfaces"
+  }
+}

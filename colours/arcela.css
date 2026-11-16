@@ -1,0 +1,13 @@
+:root {
+  --arcela-ink: #14181F; /* Ink */
+  --arcela-green: #0D6E5A; /* Green */
+  --arcela-mint: #7FD1B5; /* Mint */
+  --arcela-paper: #F6F6F3; /* Paper */
+  --arcela-slate: #4F5663; /* Slate */
+  --arcela-ink2: #3B4150; /* Ink 2 */
+  --arcela-green-hover: #0A5545; /* Green hover */
+  --arcela-line: #D9D9D3; /* Line */
+  --arcela-white: #FFFFFF; /* White */
+  --arcela-font: "Geist", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --arcela-font-mono: "Geist Mono", ui-monospace, Menlo, monospace;
+}
